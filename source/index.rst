@@ -11,5 +11,6 @@ No precise ammounts, and recipes are meant for a single serving unless otherwise
 
    recipes
    glossary
+   bibliography
 
 

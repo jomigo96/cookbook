@@ -13,7 +13,11 @@ author = 'Joao'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'sphinxcontrib.bibtex',
+    ]
+
+bibtex_bibfiles = ['refs.bib']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -25,3 +29,17 @@ exclude_patterns = []
 
 html_theme = 'agogo'
 html_static_path = ['_static']
+
+# -- Options for latex output
+latex_engine = 'lualatex'
+latex_elements = {
+    'fontpkg': 
+r'''
+\setmainfont{Tex Gyre Heros}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
+''',
+    'pointsize': '11pt',
+    'papersize': 'a4paper',
+}
+

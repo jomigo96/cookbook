@@ -1,17 +1,13 @@
-.. cookbook documentation master file, created by
-   sphinx-quickstart on Tue Apr 15 16:14:25 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+***************
+Joao's cookbook
+***************
 
-cookbook documentation
-======================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+This is a catalogue of the stuff I know how to cook.
+No precise ammounts, and recipes are meant for a single serving unless otherwise mentioned.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   recipes
 

@@ -8,7 +8,9 @@ Recipes
 Arroz de peixe
 --------------
 
-Easy. One pot. Good as leftovers.
+:term:`Easy`, :term:`One Pot`, :term:`Leftovers`
+
+Source: My mom.
 
 Ingredients
 ^^^^^^^^^^^
@@ -17,7 +19,7 @@ Ingredients
 * Any white fish
 * Onion and garlic
 * Cilantro and/or parsley
-* Tomato
+* :term:`Tomato`
 
 Steps
 ^^^^^

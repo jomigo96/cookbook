@@ -9,6 +9,8 @@
 project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao'
+version = "0.1"
+release = "0.1.0"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -43,3 +45,6 @@ r'''
     'papersize': 'a4paper',
 }
 
+# -- Options for epub output
+# disable epub mimetype warnings
+suppress_warnings = ["epub.unknown_project_files"]

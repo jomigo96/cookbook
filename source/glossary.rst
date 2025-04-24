@@ -2,13 +2,21 @@ Glossary
 ========
 
 .. glossary::
-    :sorted:
 
     Tomato : ingredient
         ..
 
+    Onion : ingredient
+        White onion/spanish onion/purple onion, but not shallots or green onion.
+
     Easy : difficulty
         Easy to make
+
+    Medium : difficulty
+        Medium difficulty
+
+    Hard : difficulty
+        Hard and time consuming to make
 
     One Pot : keyword
         Only uses one pot
@@ -18,3 +26,4 @@ Glossary
 
     Freezes : keyword
         Good to freeze
+

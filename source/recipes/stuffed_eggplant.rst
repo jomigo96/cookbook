@@ -1,15 +1,15 @@
 Stuffed eggplant
 ----------------
 
-:term:`Medium`
+:term:`Medium`, :term:`Vegetarian`
 
 Ingredients
 ^^^^^^^^^^^
 
-* Large eggplant
+* Large :term:`Eggplant`
 * :term:`Onion`
 * :term:`Tomato`
-* Cheese, melty kind like gruyère or cheddar
+* :term:`Cheese`, melty kind like :term:`Gruyère` or :term:`Cheddar`, or just pre-shredded.
 
 Steps
 ^^^^^

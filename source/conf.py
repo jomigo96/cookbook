@@ -17,12 +17,14 @@ release = "0.1.1"
 
 extensions = [
     'sphinxcontrib.bibtex',
+    'sphinx.ext.todo'
     ]
 
 bibtex_bibfiles = ['refs.bib']
 
 templates_path = ['_templates']
 exclude_patterns = []
+todo_include_todos = False
 
 
 

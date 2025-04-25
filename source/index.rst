@@ -15,3 +15,44 @@ The ingredients don't include common seasonings, oil, etc.
    bibliography
 
 
+.. todo::
+    * Tuna pasta
+    * Roasted chicken
+    * Pasta al lemone
+    * Alho françês à brás
+    * Strogonoff
+    * Lime chicken tacos
+    * Larb
+    * Braised pork belly
+    * Japanese style curry
+    * Chickpea/green lentil curry
+    * Vegetarian chilli
+    * Ceviche
+    * Omurice
+    * Shakshuka
+    * Lasagna
+    * Egg fried rice
+    * Peixe ao sal
+    * Açorda
+    * Tomato shin ramen
+    * Steamed vermicelly and fish
+    * Spicy fish
+    * Tomato beef
+    * Cauliflower pork
+    * Vinegar pasta recipe - ask for this one
+    * Chicken soup
+    * Nikkujaga
+    * Tortilla de patatas
+    * Egg spinach soup
+    * Panados
+    * Dango
+    * Chouriço baozi
+    * Eggplant miso thing
+    * Paella
+    * Mapo tofu
+    * Red lentil dahl
+    * Onigiri
+    * Feveras
+    * Feijoada branca com porto
+    * Salada russa
+    * Agedashi tofu

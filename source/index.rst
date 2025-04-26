@@ -28,7 +28,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Chickpea/green lentil curry
     * Vegetarian chilli
     * Ceviche
-    * Omurice
     * Shakshuka
     * Lasagna
     * Egg fried rice

@@ -15,6 +15,9 @@ Glossary
     Eggplant : ingredient
         ..
 
+    Potato : ingredient
+        ..
+
     Fish : ingredient
         ..
 
@@ -68,4 +71,7 @@ Glossary
 
     Vegetarian : keyword
         No meat, but may have eggs or other animal products
+
+    4-spice : seasoning
+        French style 4-spice, usually pepper, nutmeg, cloves, and ginger, sometimes also cinnamon.
 

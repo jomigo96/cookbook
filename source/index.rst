@@ -16,7 +16,6 @@ The ingredients don't include common seasonings, oil, etc.
 
 
 .. todo::
-    * Tuna pasta
     * Roasted chicken
     * Pasta al lemone
     * Alho françês à brás
@@ -41,7 +40,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Vinegar pasta recipe - ask for this one
     * Chicken soup
     * Nikkujaga
-    * Tortilla de patatas
     * Egg spinach soup
     * Panados
     * Dango

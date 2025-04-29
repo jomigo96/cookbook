@@ -18,8 +18,14 @@ Glossary
     Potato : ingredient
         ..
 
+    Tomato pulp : ingredient
+        Essentially it's blended tomato that comes in a jar
+
     Fish : ingredient
         ..
+
+    Canned tuna : ingredient
+        Canned tuna, unflavoured. In olive oil > regular oil > natural
 
     Bacon : ingredient
         ..

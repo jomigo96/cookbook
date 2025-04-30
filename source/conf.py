@@ -10,7 +10,7 @@ project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao'
 version = "0.1"
-release = "0.1.6"
+release = "0.1.7"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

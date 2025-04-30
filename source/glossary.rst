@@ -51,6 +51,9 @@ Glossary
     Pasta : ingredient
         Any kind of pasta, I usually use penne, spaghetti or linguini. It should be boiled in very salty water.
 
+    Beans : ingredient
+        ..
+
     Cilantro : ingredient
         Fresh coriander leaves
 

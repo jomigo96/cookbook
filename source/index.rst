@@ -21,7 +21,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Alho françês à brás
     * Strogonoff
     * Lime chicken tacos
-    * Larb
     * Braised pork belly
     * Japanese style curry
     * Chickpea/green lentil curry

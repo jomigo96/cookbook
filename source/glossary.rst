@@ -18,13 +18,22 @@ Glossary
     Potato : ingredient
         ..
 
+    Lettuce : ingredient
+        ..
+
     Chilli pepper : ingredient
         Spicy chillies
 
     Tomato pulp : ingredient
         Essentially it's blended tomato that comes in a jar
 
+    Lime : ingredient
+        ..
+
     Fish : ingredient
+        ..
+
+    Pork : ingredient
         ..
 
     Canned tuna : ingredient

@@ -24,7 +24,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Braised pork belly
     * Japanese style curry
     * Chickpea/green lentil curry
-    * Vegetarian chilli
     * Ceviche
     * Shakshuka
     * Lasagna
@@ -49,6 +48,5 @@ The ingredients don't include common seasonings, oil, etc.
     * Red lentil dahl
     * Onigiri
     * Feveras
-    * Feijoada branca com porto
     * Salada russa
     * Agedashi tofu

@@ -12,6 +12,9 @@ Glossary
     Garlic : ingredient
         ..
 
+    Ginger : ingredient
+        ..
+
     Eggplant : ingredient
         ..
 

@@ -8,9 +8,9 @@
 
 project = "Joao's cookbook"
 copyright = '2025, Joao'
-author = 'Joao'
+author = 'Joao, jomigo96@yahoo.com'
 version = "0.1"
-release = "0.1.7"
+release = "0.1.8"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -37,15 +37,22 @@ html_static_path = ['_static']
 
 # -- Options for latex output
 latex_engine = 'lualatex'
+latex_theme = 'howto'
 latex_elements = {
     'fontpkg': 
 r'''
-\setmainfont{Tex Gyre Heros}
-\setsansfont{DejaVu Sans}
+\setmainfont{Tex Gyre Adventor}
 \setmonofont{DejaVu Sans Mono}
 ''',
-    'pointsize': '11pt',
+    'fncychap': '',
+    'pointsize': '12pt',
     'papersize': 'a4paper',
+    'extrapackages': r'\usepackage{titlesec}',
+    'preamble':
+r'''
+\newcommand\sectionbreak{\clearpage}
+\newcommand\subsectionbreak{\clearpage}
+''',
 }
 
 # -- Options for epub output

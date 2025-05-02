@@ -64,6 +64,12 @@ Glossary
     Pasta : ingredient
         Any kind of pasta, I usually use penne, spaghetti or linguini. It should be boiled in very salty water.
 
+    Quinoa : ingredient
+        ..
+
+    Couscous : ingredient
+        It's kind of like pasta, but actually it's semolina flour chunks.
+
     Beans : ingredient
         ..
 
@@ -111,6 +117,9 @@ Glossary
 
     4-spice : seasoning
         French style 4-spice, usually pepper, nutmeg, cloves, and ginger, sometimes also cinnamon
+
+    Bay leaf : seasoning
+        It's mysterious ingredient, but I swear it does something
 
     al dente : term
         Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions

@@ -11,6 +11,7 @@ The ingredients don't include common seasonings, oil, etc.
    :maxdepth: 2
 
    recipes
+   sides
    glossary
    bibliography
 

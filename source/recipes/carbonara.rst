@@ -27,7 +27,7 @@ Prepare the sauce on a bowl, consisting of one egg, a bit of olive oil, shredded
 Mix well with a fork.
 If making for more than one person, try use 2 egg yolks to 1 full egg of a ratio, but don't bother if it's just for one person.
 
-When the pasta is al-dente, drain it, reserving a bit of the water.
+When the pasta is :term:`al dente`, drain it, reserving a bit of the water.
 Add the pasta to the slightly crispy bacon, and turn off the heat.
 Carefully add the sauce and mix immediately.
 You need to be careful to not cook the eggs too much, make sure it has cooled a bit.

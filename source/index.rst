@@ -16,8 +16,6 @@ The ingredients don't include common seasonings, oil, etc.
 
 
 .. todo::
-    * Roasted chicken
-    * Pasta al lemone
     * Alho françês à brás
     * Strogonoff
     * Lime chicken tacos
@@ -50,3 +48,4 @@ The ingredients don't include common seasonings, oil, etc.
     * Feveras
     * Salada russa
     * Agedashi tofu
+    * Esparregado

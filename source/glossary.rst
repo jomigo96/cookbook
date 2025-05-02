@@ -24,8 +24,15 @@ Glossary
     Lettuce : ingredient
         ..
 
+    Leek : ingredient
+        Did you know, in Portuguese this is called *french garlic*.
+        I think it looks like a giant green onion.
+
     Chilli pepper : ingredient
         Spicy chillies
+
+    Lemon : ingredient
+        ..
 
     Tomato pulp : ingredient
         Essentially it's blended tomato that comes in a jar
@@ -37,6 +44,9 @@ Glossary
         ..
 
     Pork : ingredient
+        ..
+
+    Chicken : ingredient
         ..
 
     Canned tuna : ingredient
@@ -75,6 +85,9 @@ Glossary
     Cheddar : ingredient
         American cheese
 
+    Olives : ingredient
+        ..
+
     Easy : difficulty
         Easy to make
 
@@ -84,7 +97,7 @@ Glossary
     Hard : difficulty
         Hard and time consuming to make
 
-    One Pot : keyword
+    One pot : keyword
         Only uses one pot
 
     Leftovers : keyword
@@ -97,5 +110,8 @@ Glossary
         No meat, but may have eggs or other animal products
 
     4-spice : seasoning
-        French style 4-spice, usually pepper, nutmeg, cloves, and ginger, sometimes also cinnamon.
+        French style 4-spice, usually pepper, nutmeg, cloves, and ginger, sometimes also cinnamon
+
+    al dente : term
+        Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions
 

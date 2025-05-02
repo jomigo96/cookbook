@@ -20,7 +20,7 @@ Ingredients
 Steps
 ^^^^^
 
-If using dried beans, pre-soak them overnight, then boil in lightly salted water until al-dente.
+If using dried beans, pre-soak them overnight, then boil in lightly salted water until :term:`al dente`.
 Depending on the type of beans, usually 45 minutes.
 
 Sweat diced onion in olive oil for a few minutes, then add minced garlic.

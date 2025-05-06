@@ -17,7 +17,6 @@ The ingredients don't include common seasonings, oil, etc.
 
 
 .. todo::
-    * Alho françês à brás
     * Strogonoff
     * Lime chicken tacos
     * Braised pork belly
@@ -28,7 +27,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Lasagna
     * Egg fried rice
     * Peixe ao sal
-    * Açorda
     * Tomato shin ramen
     * Steamed vermicelly and fish
     * Spicy fish

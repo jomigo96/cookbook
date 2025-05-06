@@ -43,6 +43,9 @@ Glossary
     Fish : ingredient
         ..
 
+    Shrimp : ingredient
+        ..
+
     Pork : ingredient
         ..
 
@@ -92,6 +95,9 @@ Glossary
         American cheese
 
     Olives : ingredient
+        ..
+
+    Bread : ingredient
         ..
 
     Easy : difficulty

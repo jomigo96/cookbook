@@ -28,6 +28,9 @@ Glossary
         Did you know, in Portuguese this is called *french garlic*.
         I think it looks like a giant green onion.
 
+    Green Onion : ingredient
+        Bigger than chives, smaller than leeks
+
     Chilli pepper : ingredient
         Spicy chillies
 
@@ -59,6 +62,9 @@ Glossary
         ..
 
     Egg : ingredient
+        ..
+
+    Tofu : ingredient
         ..
 
     Rice : ingredient
@@ -126,6 +132,15 @@ Glossary
 
     Bay leaf : seasoning
         It's mysterious ingredient, but I swear it does something
+
+    Mirin : seasoning
+        Japanese cooking wine
+
+    Dashi : seasoning
+        Sometimes stock or as a dry extract, a Japanese fish flavour for stews and sauces
+
+    Soy Sauce : seasoning
+        ..
 
     al dente : term
         Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions

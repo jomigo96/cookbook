@@ -46,4 +46,3 @@ The ingredients don't include common seasonings, oil, etc.
     * Onigiri
     * Feveras
     * Salada russa
-    * Esparregado

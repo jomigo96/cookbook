@@ -31,6 +31,9 @@ Glossary
     Green Onion : ingredient
         Bigger than chives, smaller than leeks
 
+    Spinach : ingredient
+        ..
+
     Chilli pepper : ingredient
         Spicy chillies
 
@@ -64,6 +67,9 @@ Glossary
     Egg : ingredient
         ..
 
+    Milk : ingredient
+        ..
+
     Tofu : ingredient
         ..
 
@@ -81,6 +87,9 @@ Glossary
 
     Beans : ingredient
         ..
+
+    Tapioca : ingredient
+        Starch from the cassava plant
 
     Cilantro : ingredient
         Fresh coriander leaves

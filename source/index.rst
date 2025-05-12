@@ -20,9 +20,7 @@ The ingredients don't include common seasonings, oil, etc.
     * Strogonoff
     * Lime chicken tacos
     * Braised pork belly
-    * Japanese style curry
     * Chickpea/green lentil curry
-    * Ceviche
     * Shakshuka
     * Lasagna
     * Egg fried rice

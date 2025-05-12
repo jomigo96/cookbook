@@ -21,6 +21,15 @@ Glossary
     Potato : ingredient
         ..
 
+    Carrot : ingredient
+        ..
+
+    Mushroom : ingredient
+        ..
+
+    Green beans : ingredient
+        The whole pod with immature beans inside. I usually use this and flat beans interchangeably
+
     Lettuce : ingredient
         ..
 
@@ -36,6 +45,12 @@ Glossary
 
     Chilli pepper : ingredient
         Spicy chillies
+
+    Bell Pepper : ingredient
+        Sweet pepper
+
+    Jalapeño : ingredient
+        Spicy south american pepper
 
     Lemon : ingredient
         ..
@@ -112,6 +127,9 @@ Glossary
     Olives : ingredient
         ..
 
+    Avocado : ingredient
+        ..
+
     Bread : ingredient
         ..
 
@@ -150,6 +168,9 @@ Glossary
 
     Soy Sauce : seasoning
         ..
+
+    Curry cube mix : seasoning
+        A premade seasoning cube, found in any asian store. The most popular is "Golden Curry".
 
     al dente : term
         Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions

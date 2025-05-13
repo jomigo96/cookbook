@@ -17,30 +17,29 @@ The ingredients don't include common seasonings, oil, etc.
 
 
 .. todo::
-    * Strogonoff
-    * Lime chicken tacos
-    * Braised pork belly
     * Chickpea/green lentil curry
-    * Shakshuka
-    * Lasagna
-    * Egg fried rice
-    * Peixe ao sal
-    * Tomato shin ramen
-    * Steamed vermicelly and fish
-    * Spicy fish
-    * Tomato beef
-    * Cauliflower pork
-    * Vinegar pasta recipe - ask for this one
-    * Chicken soup
-    * Nikkujaga
-    * Egg spinach soup
-    * Panados
-    * Dango
-    * Chouriço baozi
-    * Eggplant miso thing
     * Paella
-    * Mapo tofu
-    * Red lentil dahl
     * Onigiri
     * Feveras
+    * Mapo tofu
+    * Egg fried rice
+    * Shakshuka
+    * Peixe ao sal
+    * Steamed vermicelly and fish
+    * Red lentil dahl
+    * Strogonoff
+    * Tomato beef
+    * Eggplant miso thing
+    * Spicy fish
+    * Vinegar pasta recipe - ask for this one
+    * Egg spinach soup
+    * Lime chicken tacos
     * Salada russa
+    * Cauliflower pork
+    * Dango
+    * Chouriço baozi
+    * Nikkujaga
+    * Lasagna
+    * Chicken soup
+    * Braised pork belly
+

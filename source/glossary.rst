@@ -33,6 +33,9 @@ Glossary
     Lettuce : ingredient
         ..
 
+    Bok Choy : ingredient
+        ..
+
     Leek : ingredient
         Did you know, in Portuguese this is called *french garlic*.
         I think it looks like a giant green onion.
@@ -94,6 +97,9 @@ Glossary
     Pasta : ingredient
         Any kind of pasta, I usually use penne, spaghetti or linguini. It should be boiled in very salty water.
 
+    Shin Ramen : ingredient
+        A packet of very spicy and very versatile instant noodles
+
     Quinoa : ingredient
         ..
 
@@ -131,6 +137,12 @@ Glossary
         ..
 
     Bread : ingredient
+        ..
+
+    Bread Crumbs : ingredient
+        Store bought is very convenient
+
+    Flour : ingredient
         ..
 
     Easy : difficulty

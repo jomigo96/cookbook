@@ -17,7 +17,6 @@ The ingredients don't include common seasonings, oil, etc.
 
 
 .. todo::
-    * Chickpea/green lentil curry
     * Paella
     * Onigiri
     * Feveras

@@ -109,6 +109,12 @@ Glossary
     Beans : ingredient
         ..
 
+    Chickpeas : ingredient
+        ..
+
+    Lentils : ingredient
+        ..
+
     Tapioca : ingredient
         Starch from the cassava plant
 
@@ -129,6 +135,9 @@ Glossary
 
     Cheddar : ingredient
         American cheese
+
+    Coconut milk : ingredient
+        The thick kind that comes in a carton or can
 
     Olives : ingredient
         ..

@@ -12,7 +12,7 @@ Ingredients
 * 1 large :term:`Onion`
 * :term:`Rice`
 * 1 :term:`Lime`
-* :term:`Lettuce`, optional
+* :term:`Lettuce`
 * :term:`Cilantro`, optional
 
 Steps

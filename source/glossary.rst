@@ -79,6 +79,12 @@ Glossary
     Canned tuna : ingredient
         Canned tuna, unflavoured. In olive oil > regular oil > natural
 
+    Tuna : ingredient
+        ..
+
+    Salmon : ingredient
+        ..
+
     Bacon : ingredient
         ..
 
@@ -136,6 +142,12 @@ Glossary
     Cheddar : ingredient
         American cheese
 
+    Kimchi : ingredient
+        Korean sour spicy cabbage
+
+    Nori : ingredient
+        Sheets of dry seaweed
+
     Coconut milk : ingredient
         The thick kind that comes in a carton or can
 
@@ -192,6 +204,12 @@ Glossary
 
     Curry cube mix : seasoning
         A premade seasoning cube, found in any asian store. The most popular is "Golden Curry".
+
+    Siracha : seasoning
+        A ready to eat spicy sauce
+
+    Mayo : seasoning
+        Mayonnaise
 
     al dente : term
         Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions

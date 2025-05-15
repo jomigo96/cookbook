@@ -10,7 +10,7 @@ project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
 version = "0.1"
-release = "0.1.17"
+release = "0.1.18"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -27,7 +27,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 todo_include_todos = False
 
-
+smartquotes_action = "De" # converting ' to ’ confuses latex japanese packages
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -52,6 +52,7 @@ r'''
 r'''
 \newcommand\sectionbreak{\clearpage}
 \newcommand\subsectionbreak{\clearpage}
+\usepackage[haranoaji]{luatexja-preset}
 ''',
 }
 

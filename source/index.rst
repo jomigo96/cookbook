@@ -22,7 +22,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Feveras
     * Mapo tofu
     * Egg fried rice
-    * Shakshuka
     * Peixe ao sal
     * Steamed vermicelly and fish
     * Red lentil dahl

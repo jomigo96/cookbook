@@ -12,6 +12,7 @@ The ingredients don't include common seasonings, oil, etc.
 
    recipes
    sides
+   deserts
    glossary
    bibliography
 
@@ -35,7 +36,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Lime chicken tacos
     * Salada russa
     * Cauliflower pork
-    * Dango
     * Chouriço baozi
     * Nikkujaga
     * Lasagna

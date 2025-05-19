@@ -3,7 +3,7 @@ Sides
 
 .. toctree::
    :glob:
-   :caption: Recipes
+   :caption: Sides
    :maxdepth: 1
 
    sides/*

@@ -124,6 +124,12 @@ Glossary
     Tapioca : ingredient
         Starch from the cassava plant
 
+    Sesame seeds : ingredient
+        ..
+
+    Matcha : ingredient
+        ..
+
     Cilantro : ingredient
         Fresh coriander leaves
 
@@ -164,6 +170,9 @@ Glossary
         Store bought is very convenient
 
     Flour : ingredient
+        ..
+
+    Sugar : ingredient
         ..
 
     Easy : difficulty

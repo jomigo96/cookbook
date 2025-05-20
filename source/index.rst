@@ -29,7 +29,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Tomato beef
     * Eggplant miso thing
     * Spicy fish
-    * Tea egg
     * Vinegar pasta recipe - ask for this one
     * Egg spinach soup
     * Lime chicken tacos

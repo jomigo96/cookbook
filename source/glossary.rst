@@ -220,6 +220,18 @@ Glossary
     Mayo : seasoning
         Mayonnaise
 
+    Star anise : seasoning
+        ..
+
+    Cinnamon : seasoning
+        ..
+
+    Sichuan pepper : seasoning
+        It gives a numbing sensation
+
+    Fennel seeds : seasoning
+        ..
+
     al dente : term
         Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions
 

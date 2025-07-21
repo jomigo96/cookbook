@@ -30,6 +30,9 @@ Glossary
     Green beans : ingredient
         The whole pod with immature beans inside. I usually use this and flat beans interchangeably
 
+    Peas : ingredient
+        ..
+
     Lettuce : ingredient
         ..
 

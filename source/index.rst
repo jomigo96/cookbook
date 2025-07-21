@@ -18,7 +18,6 @@ The ingredients don't include common seasonings, oil, etc.
 
 
 .. todo::
-    * Paella
     * Feveras
     * Mapo tofu
     * Egg fried rice

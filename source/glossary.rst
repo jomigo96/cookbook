@@ -33,6 +33,9 @@ Glossary
     Peas : ingredient
         ..
 
+    Snow peas : ingredient
+        ..
+
     Lettuce : ingredient
         ..
 
@@ -47,6 +50,9 @@ Glossary
         Bigger than chives, smaller than leeks
 
     Spinach : ingredient
+        ..
+
+    Cucumber : ingredient
         ..
 
     Chilli pepper : ingredient
@@ -105,6 +111,9 @@ Glossary
 
     Pasta : ingredient
         Any kind of pasta, I usually use penne, spaghetti or linguini. It should be boiled in very salty water.
+
+    Soba : ingredient
+        Buckwheat noodles
 
     Shin Ramen : ingredient
         A packet of very spicy and very versatile instant noodles
@@ -178,6 +187,9 @@ Glossary
     Sugar : ingredient
         ..
 
+    Honey : ingredient
+        ..
+
     Easy : difficulty
         Easy to make
 
@@ -212,6 +224,9 @@ Glossary
         Sometimes stock or as a dry extract, a Japanese fish flavour for stews and sauces
 
     Soy Sauce : seasoning
+        ..
+
+    Vinegar : seasoning
         ..
 
     Curry cube mix : seasoning

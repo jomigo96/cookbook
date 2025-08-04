@@ -20,7 +20,6 @@ The ingredients don't include common seasonings, oil, etc.
 .. todo::
     * Feveras
     * Mapo tofu
-    * Peixe ao sal
     * Steamed vermicelly and fish
     * Red lentil dahl
     * Strogonoff

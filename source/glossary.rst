@@ -193,6 +193,9 @@ Glossary
     Honey : ingredient
         ..
 
+    Doubanjiang : ingredient
+        (La doubanjiang) A fermented, spicy, red bean paste
+
     Easy : difficulty
         Easy to make
 

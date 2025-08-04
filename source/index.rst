@@ -26,7 +26,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Strogonoff
     * Tomato beef
     * Eggplant miso thing
-    * Spicy fish
     * Vinegar pasta recipe - ask for this one
     * Egg spinach soup
     * Salada russa

@@ -20,6 +20,6 @@ Take a fish and place it on an oven tray, completely covered in salt on all side
 Really, like a 0.5cm layer all around, you should not be able to see any of the fish.
 Press it lightly.
 
-Pre-heat the oven at 200℃  and bake for about half an hour.
+Pre-heat the oven at 200°C  and bake for about half an hour.
 Yes, that's it, just don't eat the skin.
 

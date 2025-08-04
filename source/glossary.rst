@@ -85,6 +85,9 @@ Glossary
     Chicken : ingredient
         ..
 
+    Beef : ingredient
+        ..
+
     Canned tuna : ingredient
         Canned tuna, unflavoured. In olive oil > regular oil > natural
 
@@ -196,6 +199,12 @@ Glossary
     Doubanjiang : ingredient
         (La doubanjiang) A fermented, spicy, red bean paste
 
+    Butter : ingredient
+        ..
+
+    Olive oil : ingredient
+        ..
+
     Easy : difficulty
         Easy to make
 
@@ -257,6 +266,9 @@ Glossary
         It gives a numbing sensation
 
     Fennel seeds : seasoning
+        ..
+
+    Nutmeg : seasoning
         ..
 
     al dente : term

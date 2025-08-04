@@ -31,7 +31,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Cauliflower pork
     * Chouriço baozi
     * Nikkujaga
-    * Lasagna
     * Chicken soup
     * Braised pork belly
 

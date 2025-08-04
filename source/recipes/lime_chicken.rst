@@ -13,7 +13,7 @@ Ingredients
 * :term:`Chicken breast <Chicken>`
 * :term:`Garlic`
 * One or two :term:`Limes <Lime>`
-* Olive oil
+* :term:`Olive oil`
 * Salt and a pinch of sugar
 
 Grounded seasonings:

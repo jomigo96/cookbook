@@ -148,6 +148,9 @@ Glossary
     Parsley : ingredient
         ..
 
+    Basil : ingredient
+        ..
+
     Cheese : ingredient
         ..
 
@@ -222,6 +225,9 @@ Glossary
 
     Dashi : seasoning
         Sometimes stock or as a dry extract, a Japanese fish flavour for stews and sauces
+
+    Kombu : seasoning
+        A kind of seaweed used for its umami flavor
 
     Soy Sauce : seasoning
         ..

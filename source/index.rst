@@ -29,7 +29,6 @@ The ingredients don't include common seasonings, oil, etc.
     * Spicy fish
     * Vinegar pasta recipe - ask for this one
     * Egg spinach soup
-    * Lime chicken tacos
     * Salada russa
     * Cauliflower pork
     * Chouriço baozi

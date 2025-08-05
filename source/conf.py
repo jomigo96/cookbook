@@ -9,8 +9,8 @@
 project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
-version = "0.1"
-release = "0.1.29"
+version = "0.2"
+release = "0.2.0"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -59,3 +59,10 @@ r'''
 # -- Options for epub output
 # disable epub mimetype warnings
 suppress_warnings = ["epub.unknown_project_files"]
+
+# Custom linking of other built formats
+if "release" in tags:
+    html_context = {
+        "extra_formats": {"PDF": "joaoscookbook.pdf", "epub": "Joaoscookbook.epub"}
+    }
+

@@ -24,3 +24,4 @@ RUN rm -rf /var/cache/pacman/pkg/*
 # Preload the latex font databases
 RUN luaotfload-tool --update
 
+LABEL org.opencontainers.image.source=https://github.com/jomigo96/cookbook

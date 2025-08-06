@@ -1,0 +1,49 @@
+name: Compile and deply all documents
+
+on:
+  push:
+    branches: 
+      - "release"
+  pull_request:
+    branches:
+      - "master"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
+    container: ghcr.io/jomigo96/cookbook:v1
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build documents
+        shell: bash
+        run: |
+          mkdir build
+          echo "Compiling latex"
+          sphinx-build -b latex source build_latex
+          make -Cbuild_latex
+          cp build_latex/joaoscookbook.pdf build/
+
+          echo "Compiling epub"
+          sphinx-build -b epub source build_epub
+          cp build_epub/Joaoscookbook.epub build/
+
+          echo "Compiling html"
+          sphinx-build -b html --tag release source build
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cookbook-html
+          path: build
+          if-no-files-found: error
+

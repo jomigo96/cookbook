@@ -3,6 +3,8 @@ Cold soba and vegetables
 
 :term:`Easy`, :term:`Vegetarian`, :term:`One pot`
 
+Source: Jingwen
+
 Ingredients
 ^^^^^^^^^^^
 

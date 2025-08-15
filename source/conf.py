@@ -9,15 +9,16 @@
 project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
-version = "0.2"
-release = "0.2.1"
+version = "0.3"
+release = "0.3.0"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
     'sphinxcontrib.bibtex',
-    'sphinx.ext.todo'
+    'sphinx.ext.todo',
+    "sphinx.ext.githubpages",
     ]
 
 bibtex_bibfiles = ['refs.bib']

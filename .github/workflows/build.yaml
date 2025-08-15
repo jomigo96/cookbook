@@ -51,6 +51,7 @@ jobs:
           name: cookbook-html
           path: build
           if-no-files-found: error
+          include-hidden-files: true
 
   deploy:
     runs-on: ubuntu-latest

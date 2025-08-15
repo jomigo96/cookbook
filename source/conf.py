@@ -17,7 +17,8 @@ release = "0.2.1"
 
 extensions = [
     'sphinxcontrib.bibtex',
-    'sphinx.ext.todo'
+    'sphinx.ext.todo',
+    "sphinx.ext.githubpages",
     ]
 
 bibtex_bibfiles = ['refs.bib']

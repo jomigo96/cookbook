@@ -10,7 +10,7 @@ Source: Eduardo
 Ingredients
 ^^^^^^^^^^^
 
-* A medium to big fresh, whole :term:`Fish`. Something like snook, bream, or flounder. My preferred one is *dourada*, "gilt-head bream".
+* A medium to big fresh, whole :term:`Fish`. Something like snook, bream, or flounder. My preferred one is *dourada*, "gilt-head bream". It may be gutted, but it **must not** be scaled.
 * 1 or 2 Kg of coarse salt
 
 Steps

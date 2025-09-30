@@ -25,7 +25,7 @@ Optionally, add a whole garlic clove.
 
 Prepare the sauce on a bowl, consisting of one egg, a bit of olive oil, shredded parmesan, and **a lot** of black pepper.
 Mix well with a fork.
-If making for more than one person, try use 2 egg yolks to 1 full egg of a ratio, but don't bother if it's just for one person.
+If making for more than one person, try to use a 2-1 egg yolks to full egg ratio, but don't bother if it's just for one person.
 
 When the pasta is :term:`al dente`, drain it, reserving a bit of the water.
 Add the pasta to the slightly crispy bacon, and turn off the heat.

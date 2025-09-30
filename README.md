@@ -40,3 +40,8 @@ sphinx-build -b html --tag release source/ build
 ## Deploy
 
 Pushing to `release` triggers the website build and deployment. Consult the github action.
+
+## Images
+
+Use the `scripts/adjust.sh` script to prepare images before committing!
+

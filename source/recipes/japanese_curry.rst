@@ -5,6 +5,11 @@ A more sane :ref:`curry-pasta`.
 
 :term:`Medium`, :term:`Leftovers`
 
+.. image:: /graphics/japanese_curry.jpg
+   :width: 40%
+   :align: center
+
+
 Ingredients
 ^^^^^^^^^^^
 

@@ -5,6 +5,10 @@ Improved Shin ramen
 
 Source: Jingwen and loosely :cite:cts:`canoe:shinramen`.
 
+.. image:: /graphics/improved_shin_ramen.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

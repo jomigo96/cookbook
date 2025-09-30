@@ -3,6 +3,10 @@ Açorda (*Stale bread stew*)
 
 :term:`Medium`, :term:`One pot`
 
+.. image:: /graphics/acorda.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

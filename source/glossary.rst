@@ -64,6 +64,9 @@ Glossary
     Jalapeño : ingredient
         Spicy south american pepper
 
+    Cauliflower : ingredient
+        ..
+
     Lemon : ingredient
         ..
 
@@ -264,6 +267,9 @@ Glossary
 
     Sichuan pepper : seasoning
         It gives a numbing sensation
+
+    Oyster sauce : seasoning
+        A dark, thick Chinese cooking sauce. AKA “Panda sauce”.
 
     Fennel seeds : seasoning
         ..

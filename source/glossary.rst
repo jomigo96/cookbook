@@ -55,6 +55,15 @@ Glossary
     Cucumber : ingredient
         ..
 
+    Cabbage : ingredient
+        ..
+
+    Turnip : ingredient
+        ..
+
+    Celery : ingredient
+        ..
+
     Chilli pepper : ingredient
         Spicy chillies
 

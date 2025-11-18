@@ -10,7 +10,7 @@ project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
 version = "0.3"
-release = "0.3.11"
+release = "0.3.12"
 
 # Remove the "documentation" from the title
 html_title = " ".join((project, release))
@@ -56,7 +56,9 @@ r'''
 r'''
 \newcommand\sectionbreak{\clearpage}
 \newcommand\subsectionbreak{\clearpage}
-\usepackage[haranoaji]{luatexja-preset}
+\usepackage{luatexja}
+\usepackage{luatexja-fontspec}
+\setmainjfont{Noto Sans CJK JP}
 ''',
 }
 

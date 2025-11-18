@@ -133,6 +133,9 @@ Glossary
     Shin Ramen : ingredient
         A packet of very spicy and very versatile instant noodles
 
+    Instant noodles : ingredient
+        Usually a block of noodles that cooks quickly. Not to be confused with the packets that already come with seasoning, such as :term:`Shin Ramen`.
+
     Quinoa : ingredient
         ..
 

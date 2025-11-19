@@ -67,6 +67,9 @@ Glossary
     Chilli pepper : ingredient
         Spicy chillies
 
+    Dry Chilli : ingredient
+        Spicy chillies, Chinese style.
+
     Bell Pepper : ingredient
         Sweet pepper
 

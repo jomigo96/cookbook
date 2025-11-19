@@ -55,14 +55,29 @@ Glossary
     Cucumber : ingredient
         ..
 
+    Cabbage : ingredient
+        ..
+
+    Turnip : ingredient
+        ..
+
+    Celery : ingredient
+        ..
+
     Chilli pepper : ingredient
         Spicy chillies
+
+    Dry Chilli : ingredient
+        Spicy chillies, Chinese style.
 
     Bell Pepper : ingredient
         Sweet pepper
 
     Jalapeño : ingredient
         Spicy south american pepper
+
+    Cauliflower : ingredient
+        ..
 
     Lemon : ingredient
         ..
@@ -120,6 +135,9 @@ Glossary
 
     Shin Ramen : ingredient
         A packet of very spicy and very versatile instant noodles
+
+    Instant noodles : ingredient
+        Usually a block of noodles that cooks quickly. Not to be confused with the packets that already come with seasoning, such as :term:`Shin Ramen`.
 
     Quinoa : ingredient
         ..
@@ -264,6 +282,9 @@ Glossary
 
     Sichuan pepper : seasoning
         It gives a numbing sensation
+
+    Oyster sauce : seasoning
+        A dark, thick Chinese cooking sauce. AKA “Panda sauce”.
 
     Fennel seeds : seasoning
         ..

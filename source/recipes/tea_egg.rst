@@ -11,7 +11,7 @@ Ingredients
 * 6-10 eggs :term:`Eggs <Egg>`
 * 2-3 black teabags, or 10g of leaves
 * Two tablespoons of dark :term:`Soy sauce`, but any kind is fine
-* Two tablespoons of sugar :term:`Sugar`
+* Two tablespoons of :term:`Sugar`
 * Salt to taste, I add no salt
 
 
@@ -37,7 +37,7 @@ Add all of the rest of the ingredients back to the pot and simmer.
 Smack the eggs with the blunt side of a spoon, forming cracks all around.
 Add them back to the pot, and simmer for 30 minutes.
 
-Cut the heat, and leave it steeping overnight, then peel the eggs and fridge them.
+Cut the heat, and leave it steeping overnight, then peel the eggs, dry, and fridge them.
 
 .. note::
    The eggs can be simmered basically indefinitely, go crazy.

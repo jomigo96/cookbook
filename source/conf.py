@@ -10,7 +10,10 @@ project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
 version = "0.3"
-release = "0.3.2"
+release = "0.3.13"
+
+# Remove the "documentation" from the title
+html_title = " ".join((project, release))
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -53,7 +56,9 @@ r'''
 r'''
 \newcommand\sectionbreak{\clearpage}
 \newcommand\subsectionbreak{\clearpage}
-\usepackage[haranoaji]{luatexja-preset}
+\usepackage{luatexja}
+\usepackage{luatexja-fontspec}
+\setmainjfont{Noto Sans CJK JP}
 ''',
 }
 

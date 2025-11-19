@@ -23,14 +23,11 @@ The ingredients don't include common seasonings, oil, etc.
     * Steamed vermicelly and fish
     * Red lentil dahl
     * Strogonoff
-    * Tomato beef
     * Eggplant miso thing
     * Vinegar pasta recipe - ask for this one
     * Egg spinach soup
     * Salada russa
-    * Cauliflower pork
     * Chouriço baozi
     * Nikkujaga
-    * Chicken soup
     * Braised pork belly
 

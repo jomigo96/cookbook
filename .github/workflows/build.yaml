@@ -20,7 +20,7 @@ jobs:
     permissions:
       contents: read
       packages: read
-    container: ghcr.io/jomigo96/cookbook:v1
+    container: ghcr.io/jomigo96/cookbook:v2
 
     steps:
       - name: Checkout repository

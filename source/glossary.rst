@@ -274,6 +274,9 @@ Glossary
     Mayo : seasoning
         Mayonnaise
 
+    Peanut butter : seasoning
+        ..
+
     Star anise : seasoning
         ..
 

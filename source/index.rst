@@ -29,5 +29,4 @@ The ingredients don't include common seasonings, oil, etc.
     * Salada russa
     * Chouriço baozi
     * Nikkujaga
-    * Braised pork belly
 

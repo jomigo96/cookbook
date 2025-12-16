@@ -145,6 +145,9 @@ Glossary
     Couscous : ingredient
         It's kind of like pasta, but actually it's semolina flour chunks.
 
+    Oats : ingredient
+        ..
+
     Beans : ingredient
         ..
 
@@ -197,6 +200,9 @@ Glossary
         ..
 
     Avocado : ingredient
+        ..
+
+    Banana : ingredient
         ..
 
     Bread : ingredient

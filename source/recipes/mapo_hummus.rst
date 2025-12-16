@@ -48,7 +48,7 @@ Fry a tablespoon of doubanjiang in some oil until fragrant, then add some minced
 Add the mushrooms, diced, about 100ml of warm water, a tablespoon of soy sauce, and the sichuan pepper.
 Let it boil for 5 minutes.
 
-Thicken the sauce with a corn starch slurry of.
+Thicken the sauce with a corn starch slurry.
 
 Presentation
 """"""""""""

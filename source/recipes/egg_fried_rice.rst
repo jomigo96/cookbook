@@ -6,6 +6,10 @@ Egg fried rice
 
 :term:`Medium`, :term:`Vegetarian`
 
+.. image:: /graphics/egg_fried_rice.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

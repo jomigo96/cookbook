@@ -5,6 +5,10 @@ Arroz de peixe (*fish rice porridge*)
 
 Source: My mom.
 
+.. image:: /graphics/arroz_de_peixe.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

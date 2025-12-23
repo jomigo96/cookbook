@@ -5,6 +5,10 @@ Shakshuka
 
 Source: :cite:cts:`babish:shakshuka`
 
+.. image:: /graphics/shakshuka.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

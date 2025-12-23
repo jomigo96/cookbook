@@ -5,6 +5,10 @@ Cold soba and vegetables
 
 Source: Jingwen
 
+.. image:: /graphics/cold_soba_bowl.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

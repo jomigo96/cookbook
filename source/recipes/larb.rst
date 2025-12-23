@@ -5,6 +5,10 @@ Larb
 
 Source: :cite:cts:`babish:larb`
 
+.. image:: /graphics/larb.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

@@ -6,6 +6,11 @@ Tortilla de patatas
 
 :term:`Easy`, :term:`Vegetarian`
 
+
+.. image:: /graphics/tortilla_de_patatas.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

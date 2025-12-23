@@ -22,9 +22,7 @@ The ingredients don't include common seasonings, oil, etc.
     * Mapo tofu
     * Steamed vermicelly and fish
     * Red lentil dahl
-    * Strogonoff
     * Eggplant miso thing
-    * Vinegar pasta recipe - ask for this one
     * Egg spinach soup
     * Salada russa
     * Chouriço baozi

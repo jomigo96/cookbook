@@ -7,6 +7,10 @@ My favorite to get at an izakaya.
 
 Source: :cite:cts:`dog:agedashitofu`
 
+.. image:: /graphics/agedashi_tofu.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

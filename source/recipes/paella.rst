@@ -8,6 +8,10 @@ Paella
 
 More like *arroz con cosas*
 
+.. image:: /graphics/paella.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

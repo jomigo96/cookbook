@@ -79,6 +79,9 @@ Glossary
     Cauliflower : ingredient
         ..
 
+    Broccoli : ingredient
+        ..
+
     Lemon : ingredient
         ..
 
@@ -279,6 +282,15 @@ Glossary
 
     Mayo : seasoning
         Mayonnaise
+
+    Ketchup : seasoning
+        ..
+
+    Mustard : seasoning
+        ..
+
+    Cream : seasoning
+        Usually I mean single cream, but others are fine and probably tastier.
 
     Peanut butter : seasoning
         ..

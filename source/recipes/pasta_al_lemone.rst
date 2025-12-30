@@ -3,6 +3,10 @@ Pasta al lemone
 
 :term:`Easy`, :term:`Vegetarian`
 
+.. image:: /graphics/pasta_al_lemone.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

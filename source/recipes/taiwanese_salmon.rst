@@ -5,6 +5,10 @@ Taiwanese salmon basil dish
 
 Source: Jingwen
 
+.. image:: /graphics/taiwanese_salmon.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

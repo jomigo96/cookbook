@@ -5,6 +5,10 @@ A traditional Czech dish.
 
 :term:`Easy`, :term:`Vegetarian`-ish
 
+.. image:: /graphics/sour_lentil_soup.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

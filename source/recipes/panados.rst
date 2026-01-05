@@ -3,6 +3,10 @@ Panados (*Schnitzel*)
 
 :term:`Medium`, :term:`Leftovers`, :term:`Freezes`
 
+.. image:: /graphics/panados.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

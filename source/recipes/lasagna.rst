@@ -3,6 +3,10 @@ Lasagna
 
 :term:`Hard`, :term:`Leftovers`
 
+.. image:: /graphics/lasagna.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

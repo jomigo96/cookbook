@@ -10,7 +10,7 @@ project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
 version = "0.3"
-release = "0.3.22"
+release = "0.3.25"
 
 # Remove the "documentation" from the title
 html_title = " ".join((project, release))
@@ -69,6 +69,6 @@ suppress_warnings = ["epub.unknown_project_files"]
 # Custom linking of other built formats
 if "release" in tags:
     html_context = {
-        "extra_formats": {"PDF": "joaoscookbook.pdf", "epub": "Joaoscookbook.epub"}
+        "extra_formats": {"PDF": f"joaoscookbook.pdf?v={release}", "epub": f"Joaoscookbook.epub?v={release}"}
     }
 

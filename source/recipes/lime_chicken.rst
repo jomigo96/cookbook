@@ -7,6 +7,10 @@ A chicken steak to pair with any side, for sandwiches, or as taco filling
 
 Source: :cite:cts:`babish:tacos`
 
+.. image:: /graphics/lime_chicken.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

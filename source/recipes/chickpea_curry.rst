@@ -5,6 +5,10 @@ Chickpea curry
 
 :term:`Medium`, :term:`Leftovers`, :term:`Freezes`, :term:`Vegetarian`
 
+.. image:: /graphics/chickpea_curry.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

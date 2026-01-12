@@ -226,10 +226,16 @@ Glossary
     Doubanjiang : ingredient
         (La doubanjiang) A fermented, spicy, red bean paste
 
+    Miso paste : ingredient
+        ..
+
     Butter : ingredient
         ..
 
     Olive oil : ingredient
+        ..
+
+    Sesame oil : ingredient
         ..
 
     Easy : difficulty

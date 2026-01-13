@@ -3,6 +3,10 @@ Stuffed eggplant
 
 :term:`Medium`, :term:`Vegetarian`
 
+.. image:: /graphics/stuffed_eggplant.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

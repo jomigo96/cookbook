@@ -5,6 +5,10 @@ Vegetable soup
 
 It's literally normal - if a bit pungent - soup.
 
+.. image:: /graphics/vegetable_soup.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

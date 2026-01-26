@@ -47,14 +47,12 @@ The ingredient lists don't include common seasonings, oil, etc.
    * onigiri
    * peixe ao sal
    * red beans
-   * roast chicken
    * spicy fish
    * tea egg
    * tomato beef
    * tuna pasta 1
    * tuna pasta 2
    * tuna pasta 3
-   * vegetable soup
    * vegetarian chilli
    * dango
    * couscous

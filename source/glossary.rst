@@ -73,8 +73,11 @@ Glossary
    Bell Pepper : ingredient
       Sweet pepper
 
+   Chinese green pepper : ingredient
+      "青椒", similar to bell pepper, but more aromatic. A closer substitute is Turkish peppers.
+
    Jalapeño : ingredient
-      Spicy south american pepper
+      Spicy south American pepper
 
    Cauliflower : ingredient
       ..
@@ -189,6 +192,9 @@ Glossary
 
    Cheddar : ingredient
       American cheese
+
+   Century egg : ingredient
+      It's an alkaline, disgusting-looking preserved egg that's common in China. In English it's usually called “Preserved duck egg”, but be careful not to get the salty kind, that's a different thing.
 
    Kimchi : ingredient
       Korean sour spicy cabbage
@@ -318,6 +324,9 @@ Glossary
 
    Nutmeg : seasoning
       ..
+
+   MSG : seasoning
+      Monosodium glutamate, a chemical that adds umami flavour.
 
    al dente : term
       Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions

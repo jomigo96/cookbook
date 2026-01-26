@@ -10,6 +10,10 @@ Ingredients
 * :term:`Onion`
 * :term:`Potatoes <Potato>`, the small round ones are preferable
 
+.. image:: /graphics/roast_chicken.jpg
+   :width: 40%
+   :align: center
+
 Steps
 ^^^^^
 

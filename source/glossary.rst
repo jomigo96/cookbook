@@ -3,322 +3,331 @@ Glossary
 
 .. glossary::
 
-    Tomato : ingredient
-        ..
+   Tomato : ingredient
+      ..
 
-    Onion : ingredient
-        White onion/spanish onion/purple onion, but not shallots or green onion
+   Onion : ingredient
+      White onion/spanish onion/purple onion, but not shallots or green onion
 
-    Garlic : ingredient
-        ..
+   Garlic : ingredient
+      ..
 
-    Ginger : ingredient
-        ..
+   Ginger : ingredient
+      ..
 
-    Eggplant : ingredient
-        ..
+   Eggplant : ingredient
+      ..
 
-    Potato : ingredient
-        ..
+   Potato : ingredient
+      ..
 
-    Carrot : ingredient
-        ..
+   Carrot : ingredient
+      ..
 
-    Mushroom : ingredient
-        ..
+   Mushroom : ingredient
+      ..
 
-    Green beans : ingredient
-        The whole pod with immature beans inside. I usually use this and flat beans interchangeably
+   Green beans : ingredient
+      The whole pod with immature beans inside. I usually use this and flat beans interchangeably
 
-    Peas : ingredient
-        ..
+   Peas : ingredient
+      ..
 
-    Snow peas : ingredient
-        ..
+   Snow peas : ingredient
+      ..
 
-    Lettuce : ingredient
-        ..
+   Lettuce : ingredient
+      ..
 
-    Bok Choy : ingredient
-        ..
+   Bok Choy : ingredient
+      ..
 
-    Leek : ingredient
-        Did you know, in Portuguese this is called *french garlic*.
-        I think it looks like a giant green onion.
+   Leek : ingredient
+      Did you know, in Portuguese this is called *french garlic*.
+      I think it looks like a giant green onion.
 
-    Green Onion : ingredient
-        Bigger than chives, smaller than leeks
+   Green Onion : ingredient
+      Bigger than chives, smaller than leeks
 
-    Spinach : ingredient
-        ..
+   Spinach : ingredient
+      ..
 
-    Cucumber : ingredient
-        ..
+   Cucumber : ingredient
+      ..
 
-    Cabbage : ingredient
-        ..
+   Cabbage : ingredient
+      ..
 
-    Turnip : ingredient
-        ..
+   Turnip : ingredient
+      ..
 
-    Celery : ingredient
-        ..
+   Celery : ingredient
+      ..
 
-    Chilli pepper : ingredient
-        Spicy chillies
+   Chilli pepper : ingredient
+      Spicy chillies
 
-    Dry Chilli : ingredient
-        Spicy chillies, Chinese style.
+   Dry Chilli : ingredient
+      Spicy chillies, Chinese style.
 
-    Bell Pepper : ingredient
-        Sweet pepper
+   Bell Pepper : ingredient
+      Sweet pepper
 
-    Jalapeño : ingredient
-        Spicy south american pepper
+   Chinese green pepper : ingredient
+      "青椒", similar to bell pepper, but more aromatic. A closer substitute is Turkish peppers.
 
-    Cauliflower : ingredient
-        ..
+   Jalapeño : ingredient
+      Spicy south American pepper
 
-    Broccoli : ingredient
-        ..
+   Cauliflower : ingredient
+      ..
 
-    Lemon : ingredient
-        ..
+   Broccoli : ingredient
+      ..
 
-    Tomato pulp : ingredient
-        Essentially it's blended tomato that comes in a jar
+   Lemon : ingredient
+      ..
 
-    Lime : ingredient
-        ..
+   Tomato pulp : ingredient
+      Essentially it's blended tomato that comes in a jar
 
-    Fish : ingredient
-        ..
+   Lime : ingredient
+      ..
 
-    Shrimp : ingredient
-        ..
+   Fish : ingredient
+      ..
 
-    Pork : ingredient
-        ..
+   Shrimp : ingredient
+      ..
 
-    Chicken : ingredient
-        ..
+   Pork : ingredient
+      ..
 
-    Beef : ingredient
-        ..
+   Chicken : ingredient
+      ..
 
-    Canned tuna : ingredient
-        Canned tuna, unflavoured. In olive oil > regular oil > natural
+   Beef : ingredient
+      ..
 
-    Tuna : ingredient
-        ..
+   Canned tuna : ingredient
+      Canned tuna, unflavoured. In olive oil > regular oil > natural
 
-    Salmon : ingredient
-        ..
+   Tuna : ingredient
+      ..
 
-    Bacon : ingredient
-        ..
+   Salmon : ingredient
+      ..
 
-    Egg : ingredient
-        ..
+   Bacon : ingredient
+      ..
 
-    Milk : ingredient
-        ..
+   Egg : ingredient
+      ..
 
-    Tofu : ingredient
-        ..
+   Milk : ingredient
+      ..
 
-    Rice : ingredient
-        White rice, usually jasmine.
+   Tofu : ingredient
+      ..
 
-    Pasta : ingredient
-        Any kind of pasta, I usually use penne, spaghetti or linguini. It should be boiled in very salty water.
+   Rice : ingredient
+      White rice, usually jasmine.
 
-    Soba : ingredient
-        Buckwheat noodles
+   Pasta : ingredient
+      Any kind of pasta, I usually use penne, spaghetti or linguini. It should be boiled in very salty water.
 
-    Shin Ramen : ingredient
-        A packet of very spicy and very versatile instant noodles
+   Soba : ingredient
+      Buckwheat noodles
 
-    Instant noodles : ingredient
-        Usually a block of noodles that cooks quickly. Not to be confused with the packets that already come with seasoning, such as :term:`Shin Ramen`.
+   Shin Ramen : ingredient
+      A packet of very spicy and very versatile instant noodles
 
-    Quinoa : ingredient
-        ..
+   Instant noodles : ingredient
+      Usually a block of noodles that cooks quickly. Not to be confused with the packets that already come with seasoning, such as :term:`Shin Ramen`.
 
-    Couscous : ingredient
-        It's kind of like pasta, but actually it's semolina flour chunks.
+   Quinoa : ingredient
+      ..
 
-    Oats : ingredient
-        ..
+   Couscous : ingredient
+      It's kind of like pasta, but actually it's semolina flour chunks.
 
-    Beans : ingredient
-        ..
+   Oats : ingredient
+      ..
 
-    Chickpeas : ingredient
-        ..
+   Beans : ingredient
+      ..
 
-    Lentils : ingredient
-        ..
+   Chickpeas : ingredient
+      ..
 
-    Tapioca : ingredient
-        Starch from the cassava plant
+   Lentils : ingredient
+      ..
 
-    Sesame seeds : ingredient
-        ..
+   Tapioca : ingredient
+      Starch from the cassava plant
 
-    Matcha : ingredient
-        ..
+   Sesame seeds : ingredient
+      ..
 
-    Cilantro : ingredient
-        Fresh coriander leaves
+   Matcha : ingredient
+      ..
 
-    Parsley : ingredient
-        ..
+   Cilantro : ingredient
+      Fresh coriander leaves
 
-    Basil : ingredient
-        ..
+   Parsley : ingredient
+      ..
 
-    Cheese : ingredient
-        ..
+   Basil : ingredient
+      ..
 
-    Parmesan : ingredient
-        ..
+   Cheese : ingredient
+      ..
 
-    Gruyère : ingredient
-        A cheese suitable for melty dishes
+   Parmesan : ingredient
+      ..
 
-    Cheddar : ingredient
-        American cheese
+   Gruyère : ingredient
+      A cheese suitable for melty dishes
 
-    Kimchi : ingredient
-        Korean sour spicy cabbage
+   Cheddar : ingredient
+      American cheese
 
-    Nori : ingredient
-        Sheets of dry seaweed
+   Century egg : ingredient
+      It's an alkaline, disgusting-looking preserved egg that's common in China. In English it's usually called “Preserved duck egg”, but be careful not to get the salty kind, that's a different thing.
 
-    Coconut milk : ingredient
-        The thick kind that comes in a carton or can
+   Kimchi : ingredient
+      Korean sour spicy cabbage
 
-    Olives : ingredient
-        ..
+   Nori : ingredient
+      Sheets of dry seaweed
 
-    Avocado : ingredient
-        ..
+   Coconut milk : ingredient
+      The thick kind that comes in a carton or can
 
-    Banana : ingredient
-        ..
+   Olives : ingredient
+      ..
 
-    Bread : ingredient
-        ..
+   Avocado : ingredient
+      ..
 
-    Bread Crumbs : ingredient
-        Store bought is very convenient
+   Banana : ingredient
+      ..
 
-    Flour : ingredient
-        ..
+   Bread : ingredient
+      ..
 
-    Sugar : ingredient
-        ..
+   Bread Crumbs : ingredient
+      Store bought is very convenient
 
-    Honey : ingredient
-        ..
+   Flour : ingredient
+      ..
 
-    Doubanjiang : ingredient
-        (La doubanjiang) A fermented, spicy, red bean paste
+   Sugar : ingredient
+      ..
 
-    Miso paste : ingredient
-        ..
+   Honey : ingredient
+      ..
 
-    Butter : ingredient
-        ..
+   Doubanjiang : ingredient
+      (La doubanjiang) A fermented, spicy, red bean paste
 
-    Olive oil : ingredient
-        ..
+   Miso paste : ingredient
+      ..
 
-    Sesame oil : ingredient
-        ..
+   Butter : ingredient
+      ..
 
-    Easy : difficulty
-        Easy to make
+   Olive oil : ingredient
+      ..
 
-    Medium : difficulty
-        Medium difficulty
+   Sesame oil : ingredient
+      ..
 
-    Hard : difficulty
-        Hard and time consuming to make
+   Easy : difficulty
+      Easy to make
 
-    One pot : keyword
-        Only uses one pot
+   Medium : difficulty
+      Medium difficulty
 
-    Leftovers : keyword
-        Good to eat as leftovers
+   Hard : difficulty
+      Hard and time consuming to make
 
-    Freezes : keyword
-        Good to freeze
+   One pot : keyword
+      Only uses one pot
 
-    Vegetarian : keyword
-        No meat, but may have eggs or other animal products
+   Leftovers : keyword
+      Good to eat as leftovers
 
-    4-spice : seasoning
-        French style 4-spice, usually pepper, nutmeg, cloves, and ginger, sometimes also cinnamon
+   Freezes : keyword
+      Good to freeze
 
-    Bay leaf : seasoning
-        It's mysterious ingredient, but I swear it does something
+   Vegetarian : keyword
+      No meat, but may have eggs or other animal products
 
-    Mirin : seasoning
-        Japanese cooking wine
+   4-spice : seasoning
+      French style 4-spice, usually pepper, nutmeg, cloves, and ginger, sometimes also cinnamon
 
-    Dashi : seasoning
-        Sometimes stock or as a dry extract, a Japanese fish flavour for stews and sauces
+   Bay leaf : seasoning
+      It's mysterious ingredient, but I swear it does something
 
-    Kombu : seasoning
-        A kind of seaweed used for its umami flavor
+   Mirin : seasoning
+      Japanese cooking wine
 
-    Soy Sauce : seasoning
-        ..
+   Dashi : seasoning
+      Sometimes stock or as a dry extract, a Japanese fish flavour for stews and sauces
 
-    Vinegar : seasoning
-        ..
+   Kombu : seasoning
+      A kind of seaweed used for its umami flavor
 
-    Curry cube mix : seasoning
-        A premade seasoning cube, found in any asian store. The most popular is "Golden Curry".
+   Soy Sauce : seasoning
+      ..
 
-    Siracha : seasoning
-        A ready to eat spicy sauce
+   Vinegar : seasoning
+      ..
 
-    Mayo : seasoning
-        Mayonnaise
+   Curry cube mix : seasoning
+      A premade seasoning cube, found in any asian store. The most popular is "Golden Curry".
 
-    Ketchup : seasoning
-        ..
+   Siracha : seasoning
+      A ready to eat spicy sauce
 
-    Mustard : seasoning
-        ..
+   Mayo : seasoning
+      Mayonnaise
 
-    Cream : seasoning
-        Usually I mean single cream, but others are fine and probably tastier.
+   Ketchup : seasoning
+      ..
 
-    Peanut butter : seasoning
-        ..
+   Mustard : seasoning
+      ..
 
-    Star anise : seasoning
-        ..
+   Cream : seasoning
+      Usually I mean single cream, but others are fine and probably tastier.
 
-    Cinnamon : seasoning
-        ..
+   Peanut butter : seasoning
+      ..
 
-    Sichuan pepper : seasoning
-        It gives a numbing sensation
+   Star anise : seasoning
+      ..
 
-    Oyster sauce : seasoning
-        A dark, thick Chinese cooking sauce. AKA “Panda sauce”.
+   Cinnamon : seasoning
+      ..
 
-    Fennel seeds : seasoning
-        ..
+   Sichuan pepper : seasoning
+      It gives a numbing sensation
 
-    Nutmeg : seasoning
-        ..
+   Oyster sauce : seasoning
+      A dark, thick Chinese cooking sauce. AKA “Panda sauce”.
 
-    al dente : term
-        Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions
+   Fennel seeds : seasoning
+      ..
+
+   Nutmeg : seasoning
+      ..
+
+   MSG : seasoning
+      Monosodium glutamate, a chemical that adds umami flavour.
+
+   al dente : term
+      Cooked, but firm when biting. Usually for pasta, cook for 1 minute less than the package instructions
 

@@ -16,7 +16,7 @@ Ingredients
 * :term:`Ginger`
 
 .. hint::
-    Fresh or dry beans are possible, just prepare them beforehand.
+   Fresh or dry beans are possible, just prepare them beforehand.
 
 Steps
 ^^^^^
@@ -38,5 +38,5 @@ Fish out the star anise, and splash a bit of vinegar.
 Serve as is with some soft cheese on top, or over rice or quinoa.
 
 .. tip::
-    Before reheating, add a bit of water.
+   Before reheating, add a bit of water.
 

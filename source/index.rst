@@ -37,7 +37,6 @@ The ingredient lists don't include common seasonings, oil, etc.
    * braised pork belly
    * carbonara
    * ceviche
-   * chicken bolognese
    * chicken soup
    * feijoada
    * green lentil curry

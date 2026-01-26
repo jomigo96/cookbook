@@ -10,6 +10,9 @@ My slightly healthier take on bolognese.
 The biggest difference, apart from the chicken, is that I don't use any cream or cheese on the sauce.
 Shred some cheese on top if you will, but I like the simple tomato based sauce.
 
+.. image:: /graphics/chicken_bolognese.jpg
+   :width: 40%
+   :align: center
 
 Ingredients
 ^^^^^^^^^^^

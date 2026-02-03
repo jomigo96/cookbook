@@ -6,6 +6,10 @@ Carbonara
 
 :term:`Easy`
 
+.. image:: /graphics/carbonara.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

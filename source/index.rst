@@ -35,14 +35,11 @@ The ingredient lists don't include common seasonings, oil, etc.
    * bacon cabbage
    * banana oats
    * braised pork belly
-   * carbonara
    * ceviche
    * chicken soup
    * feijoada
    * green lentil curry
-   * green pasta and salmon
    * japanese pasta curry
-   * omurice
    * onigiri
    * peixe ao sal
    * red beans

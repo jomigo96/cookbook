@@ -5,6 +5,14 @@ Green pasta and salmon
 
 Source: loosely from my mom.
 
+.. figure:: /graphics/green_pasta_and_salmon.jpg
+   :width: 40%
+   :align: center
+
+   ..
+
+   Here it has some celery as well.
+
 Ingredients
 ^^^^^^^^^^^
 

@@ -3,7 +3,11 @@ Bacon cabbage
 
 :term:`Easy`
 
-A lazy keto favorite.
+A lazy keto staple.
+
+.. image:: /graphics/bacon_cabbage.jpg
+   :width: 40%
+   :align: center
 
 Ingredients
 ^^^^^^^^^^^

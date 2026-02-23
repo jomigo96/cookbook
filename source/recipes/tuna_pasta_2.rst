@@ -7,6 +7,10 @@ Another tuna pasta variant, with a stronger garlic flavor and a bit of maillard.
 
 Source: Eduardo
 
+.. image:: /graphics/tuna_pasta_v2.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

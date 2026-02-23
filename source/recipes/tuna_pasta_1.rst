@@ -7,6 +7,10 @@ Possibly my number 1 cooked dish, featured every saturday lunch during uni.
 
 :term:`Easy`
 
+.. image:: /graphics/tuna_pasta_v1.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

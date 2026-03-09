@@ -28,11 +28,11 @@ The ingredient lists don't include common seasonings, oil, etc.
    * Salada russa
    * Chouriço baozi
    * Nikkujaga
+   * Honey mustard pork chops
 
    Images:
 
    * alho frances a bras
-   * bacon cabbage
    * banana oats
    * braised pork belly
    * ceviche
@@ -46,10 +46,7 @@ The ingredient lists don't include common seasonings, oil, etc.
    * spicy fish
    * tea egg
    * tomato beef
-   * tuna pasta 1
-   * tuna pasta 2
    * tuna pasta 3
-   * vegetarian chilli
    * dango
    * couscous
    * esparregado

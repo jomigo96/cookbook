@@ -5,6 +5,10 @@ My classic meal prep choice.
 
 :term:`Easy`, :term:`Leftovers`, :term:`Freezes`, :term:`Vegetarian`
 
+.. image:: /graphics/vegetarian_chilli.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

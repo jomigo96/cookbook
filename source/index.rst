@@ -46,7 +46,6 @@ The ingredient lists don't include common seasonings, oil, etc.
    * spicy fish
    * tea egg
    * tomato beef
-   * tuna pasta 3
    * dango
    * couscous
    * esparregado

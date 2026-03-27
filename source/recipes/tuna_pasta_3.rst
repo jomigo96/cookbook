@@ -5,6 +5,10 @@ Very similar to :ref:`tuna-v1`, but with more seasoning.
 
 :term:`Easy`
 
+.. image:: /graphics/tuna_pasta_v3.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

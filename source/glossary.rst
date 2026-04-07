@@ -268,6 +268,9 @@ Glossary
    4-spice : seasoning
       French style 4-spice, usually pepper, nutmeg, cloves, and ginger, sometimes also cinnamon
 
+   Garam masala : seasoning
+      An Indian spice mix, usually cardamom, cinnamon, cumin, cloves, bay leaves, star anise, and peppercorns.
+
    Bay leaf : seasoning
       It's mysterious ingredient, but I swear it does something
 

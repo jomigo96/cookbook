@@ -3,8 +3,11 @@ Joao's cookbook
 ***************
 
 This is a catalogue of the stuff I know how to cook.
-No precise ammounts, and recipes are meant for a single serving unless otherwise mentioned.
-The ingredient lists don't include common seasonings, oil, etc.
+It is written in the style of notes to myself, but another reader can still follow.
+No warranty.
+
+There are few precise amounts, and recipes are meant for a single serving unless otherwise mentioned.
+The ingredient lists don't include common seasonings like salt and oil, unless it's a rather uncommon one or a key focus of the recipe.
 
 .. toctree::
    :caption: Contents:
@@ -23,16 +26,14 @@ The ingredient lists don't include common seasonings, oil, etc.
    * Feveras
    * Mapo tofu
    * Steamed vermicelly and fish
-   * Red lentil dahl
    * Egg spinach soup
    * Salada russa
    * Chouriço baozi
-   * Nikkujaga
+   * Honey mustard pork chops
 
    Images:
 
    * alho frances a bras
-   * bacon cabbage
    * banana oats
    * braised pork belly
    * ceviche
@@ -46,10 +47,6 @@ The ingredient lists don't include common seasonings, oil, etc.
    * spicy fish
    * tea egg
    * tomato beef
-   * tuna pasta 1
-   * tuna pasta 2
-   * tuna pasta 3
-   * vegetarian chilli
    * dango
    * couscous
    * esparregado

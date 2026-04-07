@@ -3,8 +3,11 @@ Joao's cookbook
 ***************
 
 This is a catalogue of the stuff I know how to cook.
-No precise ammounts, and recipes are meant for a single serving unless otherwise mentioned.
-The ingredient lists don't include common seasonings, oil, etc.
+It is written in the style of notes to myself, but another reader can still follow.
+No warranty.
+
+There are few precise amounts, and recipes are meant for a single serving unless otherwise mentioned.
+The ingredient lists don't include common seasonings like salt and oil, unless it's a rather uncommon one or a key focus of the recipe.
 
 .. toctree::
    :caption: Contents:

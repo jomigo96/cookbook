@@ -23,7 +23,6 @@ The ingredient lists don't include common seasonings, oil, etc.
    * Feveras
    * Mapo tofu
    * Steamed vermicelly and fish
-   * Red lentil dahl
    * Egg spinach soup
    * Salada russa
    * Chouriço baozi

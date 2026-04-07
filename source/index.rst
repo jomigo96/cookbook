@@ -27,7 +27,6 @@ The ingredient lists don't include common seasonings, oil, etc.
    * Egg spinach soup
    * Salada russa
    * Chouriço baozi
-   * Nikkujaga
    * Honey mustard pork chops
 
    Images:

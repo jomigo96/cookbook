@@ -45,7 +45,6 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * peixe ao sal
    * red beans
    * spicy fish
-   * tea egg
    * tomato beef
    * dango
    * couscous

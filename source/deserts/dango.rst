@@ -5,6 +5,10 @@ Dango
 
 Source: :cite:cts:`sudachi:dango`
 
+.. image:: /graphics/dango.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

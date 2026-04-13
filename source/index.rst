@@ -40,13 +40,11 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * chicken soup
    * feijoada
    * green lentil curry
-   * japanese pasta curry
    * onigiri
    * peixe ao sal
    * red beans
    * spicy fish
    * tomato beef
-   * dango
    * couscous
    * esparregado
    * pasta

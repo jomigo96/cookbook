@@ -8,6 +8,10 @@ Japanese curry pasta
 
 :term:`Easy`, :term:`One Pot`, :term:`Vegetarian`
 
+.. image:: /graphics/japanese_pasta_curry.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

@@ -5,6 +5,10 @@ Tea egg
 
 Source: :cite:cts:`souped:teaegg`
 
+.. image:: /graphics/tea_egg.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

@@ -5,6 +5,18 @@ Dango
 
 Source: :cite:cts:`sudachi:dango`
 
+.. image:: /graphics/dango.jpg
+   :width: 40%
+   :align: center
+
+A funny detail:
+
+.. figure:: /graphics/dogs.jpg
+   :width: 35%
+   :align: center
+
+   Right: Dango, Left: another dog not named after food
+
 Ingredients
 ^^^^^^^^^^^
 

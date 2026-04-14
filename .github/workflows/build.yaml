@@ -1,4 +1,4 @@
-name: Compile and deply all documents
+name: Compile and deploy all documents
 
 on:
   push:
@@ -20,7 +20,7 @@ jobs:
     permissions:
       contents: read
       packages: read
-    container: ghcr.io/jomigo96/cookbook:v2
+    container: ghcr.io/jomigo96/cookbook:v3
 
     steps:
       - name: Checkout repository

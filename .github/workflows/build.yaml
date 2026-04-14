@@ -1,4 +1,4 @@
-name: Compile and deply all documents
+name: Compile and deploy all documents
 
 on:
   push:

@@ -88,6 +88,9 @@ Glossary
    Lemon : ingredient
       ..
 
+   Orange : ingredient
+      ..
+
    Tomato pulp : ingredient
       Essentially it's blended tomato that comes in a jar
 
@@ -234,6 +237,9 @@ Glossary
 
    Miso paste : ingredient
       ..
+
+   Soybean paste : ingredient
+      "Yellow" soybean paste
 
    Butter : ingredient
       ..

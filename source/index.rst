@@ -30,7 +30,6 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * Salada russa
    * Chouriço baozi
    * Honey mustard pork chops
-   * Fried rice V2
    * spicy green bean side
 
    Images:
@@ -53,4 +52,5 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * quinoa
    * rice improved
    * whole grain rice
+   * Fried rice V2
 

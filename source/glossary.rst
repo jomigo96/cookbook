@@ -85,6 +85,9 @@ Glossary
    Broccoli : ingredient
       ..
 
+   Corn : ingredient
+      ..
+
    Lemon : ingredient
       ..
 

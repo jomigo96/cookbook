@@ -17,8 +17,8 @@ RUN pacman -Syyu --noconfirm --needed \
     ttf-dejavu \
     noto-fonts-cjk \
     python \
-    python-sphinx \
-    python-sphinxcontrib-bibtex
+    python-pip \
+    python-virtualenv
 
 RUN rm -rf /var/cache/pacman/pkg/*
 
@@ -30,9 +30,19 @@ RUN printf '%s\n' \
   '\documentclass{article}' \
   '\usepackage{luatexja-fontspec}' \
   '\setmainjfont{Noto Sans CJK JP}' \
-  '\begin{document} おはよう 中文 \end{document}' \
+  '\begin{document} Hello world! おはよう 中文 \end{document}' \
   > /cache-warmup.tex
 RUN lualatex -interaction=batchmode -halt-on-error /cache-warmup.tex 
 RUN rm /cache-warmup.*
+
+# Python env. Why? some python dependencies are not found on the arch repositories
+COPY requirements.txt /requirements.txt
+
+RUN python3 -m venv /opt/venv && \
+    /opt/venv/bin/pip install --upgrade pip && \
+    /opt/venv/bin/pip install -r /requirements.txt
+
+ENV VIRTUAL_ENV=/opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
 
 LABEL org.opencontainers.image.source=https://github.com/jomigo96/cookbook

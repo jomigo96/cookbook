@@ -9,8 +9,8 @@
 project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
-version = "0.3"
-release = "0.4.3"
+version = "0.4"
+release = "0.4.6"
 
 # Remove the "documentation" from the title
 html_title = " ".join((project, release))

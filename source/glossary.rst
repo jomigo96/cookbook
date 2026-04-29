@@ -85,7 +85,13 @@ Glossary
    Broccoli : ingredient
       ..
 
+   Corn : ingredient
+      ..
+
    Lemon : ingredient
+      ..
+
+   Orange : ingredient
       ..
 
    Tomato pulp : ingredient
@@ -234,6 +240,9 @@ Glossary
 
    Miso paste : ingredient
       ..
+
+   Soybean paste : ingredient
+      "Yellow" soybean paste
 
    Butter : ingredient
       ..

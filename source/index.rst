@@ -30,6 +30,7 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * Salada russa
    * Chouriço baozi
    * Honey mustard pork chops
+   * spicy green bean side
 
    Images:
 
@@ -39,7 +40,6 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * ceviche
    * chicken soup
    * feijoada
-   * green lentil curry
    * onigiri
    * peixe ao sal
    * red beans
@@ -52,4 +52,5 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * quinoa
    * rice improved
    * whole grain rice
+   * Fried rice V2
 

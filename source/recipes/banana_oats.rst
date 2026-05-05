@@ -5,6 +5,10 @@ Banana oats
 
 More like breakfast.
 
+.. image:: /graphics/banana_oats.jpg
+   :width: 35%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

@@ -313,6 +313,9 @@ Glossary
    Mustard : seasoning
       ..
 
+   Worcestershire sauce : seasoning
+      ..
+
    Cream : seasoning
       Usually I mean single cream, but others are fine and probably tastier.
 

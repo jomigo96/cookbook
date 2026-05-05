@@ -3,6 +3,10 @@ Esparregado (*spinach pate*)
 
 :term:`Medium`, :term:`One pot`, :term:`Vegetarian`
 
+.. image:: /graphics/esparregado.jpg
+   :width: 35%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

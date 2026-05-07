@@ -10,7 +10,7 @@ project = "Joao's cookbook"
 copyright = '2025, Joao'
 author = 'Joao, jomigo96@yahoo.com'
 version = "0.4"
-release = "0.4.7"
+release = "0.4.8"
 
 # Remove the "documentation" from the title
 html_title = " ".join((project, release))
@@ -59,6 +59,10 @@ r'''
 \usepackage{luatexja}
 \usepackage{luatexja-fontspec}
 \setmainjfont{Noto Sans CJK JP}
+\hypersetup{
+    pdfkeywords = {Cooking, Recipe book, Lifestyle},
+    pdfsubject = {Cooking},
+}
 ''',
 }
 

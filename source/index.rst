@@ -27,15 +27,11 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * Mapo tofu
    * Steamed vermicelly and fish
    * Egg spinach soup
-   * Salada russa
    * Chouriço baozi
-   * Honey mustard pork chops
-   * spicy green bean side
 
    Images:
 
    * alho frances a bras
-   * banana oats
    * braised pork belly
    * ceviche
    * chicken soup
@@ -46,7 +42,6 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * spicy fish
    * tomato beef
    * couscous
-   * esparregado
    * pasta
    * plain rice
    * quinoa

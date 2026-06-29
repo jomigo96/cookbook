@@ -7,10 +7,10 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Joao's cookbook"
-copyright = '2025, Joao'
+copyright = '2025-2026, Joao'
 author = 'Joao, jomigo96@yahoo.com'
 version = "0.4"
-release = "0.4.8"
+release = "0.4.9"
 
 # Remove the "documentation" from the title
 html_title = " ".join((project, release))

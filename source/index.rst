@@ -27,7 +27,6 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * Mapo tofu
    * Steamed vermicelly and fish
    * Egg spinach soup
-   * Salada russa
    * Chouriço baozi
 
    Images:

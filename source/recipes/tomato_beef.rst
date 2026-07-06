@@ -5,6 +5,10 @@ Tomato beef
 
 Source: Chinese friend
 
+.. image:: /graphics/tomato_beef.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 
@@ -25,7 +29,8 @@ Fry it in some oil for 2 minutes.
 Add the beef and fry another 2 minutes.
 
 Add the tomato mush and beef soup to cover.
-Season with salt and let it simmer for 10 minutes, until sort of but not completely thick.
+Season with a tablespoon of soy sauce and let it simmer for 10 minutes, until sort of but not completely thick.
+Add some salt as necessary.
 
-Serve with some rice.
+Garnish with green onion and serve with rice.
 

@@ -6,6 +6,10 @@ Egg fried rice *v2*
 An actual authentic version.
 Source: Jingwen via :cite:cts:`xiachufang:fried_rice`.
 
+.. image:: /graphics/egg_fried_rice_v2.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

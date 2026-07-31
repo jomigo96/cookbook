@@ -1,7 +1,7 @@
 Guizhou kidney beans
 --------------------
 
-:term:`Medium`
+:term:`Medium`, :term:`One pot`
 
 Source: Jingwen via :cite:cts:`xiaohongshu:guizhou_kidney_beans`.
 

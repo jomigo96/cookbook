@@ -12,7 +12,7 @@ Source: Jingwen via :cite:cts:`xiaohongshu:guizhou_kidney_beans`.
 
 Ingredients
 ^^^^^^^^^^^
-* :term:`Kidney beans`, soaked overnight and boiled until soft. Use canned kidney beans as a substitute.
+* :term:`Kidney beans <Beans>`, soaked overnight and boiled until soft. Use canned kidney beans as a substitute.
 * :term:`Minced pork <Pork>`
 * :term:`Tomato`, diced
 * :term:`Chinese green pepper`, replaceable with :term:`bell pepper`.

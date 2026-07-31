@@ -25,8 +25,11 @@ Steps
 ^^^^^
 
 Heat a pan with some oil, and add the garlic and ginger. When fragrant, add the minced pork and stir fry until cooked.
-Add one third of the kidney beans and stir fry for a few minutes, and then smash the beans with a spoon or pestle. 
-Then add the tomato and green pepper. Stir fry until the tomato is soft, and then add the water or chicken stock and the rest of the kidney beans. 
+
+Add one third of the kidney beans and stir fry for a few minutes, then smash the beans with a spoon or pestle. 
+
+Add the tomato and green pepper. Stir fry until the tomato is soft, then add the water or chicken stock and the rest of the kidney beans. 
 Simmer for 5 minutes, and then add salt, MSG, soy sauce and (white) pepper to taste.
-Top with chopped green onion before serving.
+
+Top with chopped green onion before serving with rice.
 

@@ -1,5 +1,5 @@
 Guizhou kidney beans
-----------------------
+--------------------
 
 :term:`Medium`
 

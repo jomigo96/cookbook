@@ -41,3 +41,5 @@ Simmer for 10 minutes with a lid.
 Add two tablespoons of soy sauce.
 Simmer for 10 more minutes, or until the potatoes are done.
 
+Add back the meat and serve once it has warmed up.
+

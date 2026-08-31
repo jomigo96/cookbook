@@ -3,6 +3,10 @@ Ceviche
 
 :term:`Easy`, :term:`One Pot`
 
+.. image:: /graphics/ceviche.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 

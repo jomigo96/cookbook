@@ -235,6 +235,9 @@ Glossary
    Honey : ingredient
       ..
 
+   Chocolate : ingredient
+      ..
+
    Doubanjiang : ingredient
       (La doubanjiang) A fermented, spicy, red bean paste
 

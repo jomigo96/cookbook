@@ -33,19 +33,16 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
 
    * alho frances a bras
    * braised pork belly
-   * ceviche
    * chicken soup
    * feijoada
    * onigiri
    * peixe ao sal
    * red beans
    * spicy fish
-   * tomato beef
    * couscous
    * pasta
    * plain rice
    * quinoa
    * rice improved
    * whole grain rice
-   * Fried rice V2
 

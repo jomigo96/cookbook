@@ -199,6 +199,9 @@ Glossary
    Cheddar : ingredient
       American cheese
 
+   Mascarpone : ingredient
+      Very soft and mild cheese, but it's technically cream
+
    Century egg : ingredient
       It's an alkaline, disgusting-looking preserved egg that's common in China. In English it's usually called “Preserved duck egg”, but be careful not to get the salty kind, that's a different thing.
 
@@ -207,6 +210,9 @@ Glossary
 
    Nori : ingredient
       Sheets of dry seaweed
+
+   Katsuobushi : ingredient
+      Dry flakes of smoked skipjack tuna, also known as bonito flakes
 
    Coconut milk : ingredient
       The thick kind that comes in a carton or can
@@ -237,6 +243,18 @@ Glossary
 
    Chocolate : ingredient
       ..
+
+   Cocoa powder : ingredient
+      ..
+
+   Baking powder : ingredient
+      Not baking soda, but sometimes you should use both?
+
+   Coffee : ingredient
+      ..
+
+   Vanilla extract : ingredient
+      Also known as dessert MSG
 
    Doubanjiang : ingredient
       (La doubanjiang) A fermented, spicy, red bean paste

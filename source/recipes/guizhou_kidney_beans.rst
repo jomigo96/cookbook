@@ -17,7 +17,7 @@ Ingredients
 * :term:`Tomato`, diced
 * :term:`Chinese green pepper`, replaceable with :term:`bell pepper`.
 * :term:`Green onion`, chopped
-* :term:`Chicken stock`, optional, can be replaced with water.
+* Chicken stock, optional, can be replaced with water.
 * 3 cloves of :term:`Garlic`, sliced
 * 1 small piece of :term:`Ginger`, sliced
 

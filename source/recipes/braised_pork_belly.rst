@@ -3,6 +3,10 @@ Braised pork belly
 
 :term:`Medium`, :term:`Leftovers`, :term:`One pot`
 
+.. image:: /graphics/braised_pork_belly.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 
@@ -30,6 +34,7 @@ Sear the meat in a large frying pan or wok, with medium low heat.
 When light gray, remove the meat.
 
 Add the sugar to the pan, heat it up slowly until it all melts and turns amber.
+It should be well caramelized, but be careful to not overdo it, or it will turn bitter.
 Add back the meat, ginger and green onion, and coat them thoroughly in the liquid.
 After a couple of minutes on medium heat, de-glaze with the wine.
 

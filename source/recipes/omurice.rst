@@ -5,16 +5,16 @@ Omurice
 
 More like rice egg omelette.
 
+.. image:: /graphics/omurice.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 
 * 2 or 3 :term:`Eggs <Egg>`
 * Leftover :term:`Rice`, brown is ok
 * Ketchup, optionally mayo, yakisoba sauce
-
-.. image:: /graphics/omurice.jpg
-   :width: 40%
-   :align: center
 
 Steps
 ^^^^^

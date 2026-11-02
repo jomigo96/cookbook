@@ -32,7 +32,6 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    Images:
 
    * alho frances a bras
-   * braised pork belly
    * chicken soup
    * feijoada
    * onigiri

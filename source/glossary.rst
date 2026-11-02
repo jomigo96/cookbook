@@ -85,6 +85,9 @@ Glossary
    Broccoli : ingredient
       ..
 
+   Asparagus : ingredient
+      ..
+
    Corn : ingredient
       ..
 

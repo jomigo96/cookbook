@@ -36,7 +36,6 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * feijoada
    * onigiri
    * peixe ao sal
-   * red beans
    * spicy fish
    * couscous
    * pasta

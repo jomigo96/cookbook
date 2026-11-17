@@ -5,12 +5,15 @@ Red beans
 
 Source: :cite:cts:`ragusea:redbeans`
 
+.. image:: /graphics/red_beans.jpg
+   :width: 40%
+   :align: center
+
 Ingredients
 ^^^^^^^^^^^
 
 * :term:`Red beans <Beans>`, like kidney beans, but the smaller ones are better
 * :term:`Onion`
-* :term:`Carrot`
 * :term:`Celery`
 * :term:`Bell pepper`
 

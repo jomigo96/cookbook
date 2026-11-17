@@ -43,4 +43,5 @@ The ingredient lists don't include common seasonings like salt and oil, unless i
    * quinoa
    * rice improved
    * whole grain rice
+   * A better image for stuffed peppers
 
